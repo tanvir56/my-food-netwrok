@@ -144,4 +144,47 @@ footer p {
     color: rgb(170, 170, 170);
 
 }
+
+/* -----extra-section--- */
+
+.chef .one-third-width {
+
+    padding: 300px 0 0;
     
+}
+
+.chef h2,h3 {
+
+    margin: 0;
+}
+#first-chef-bg {
+
+    background: url(images/chef-1.jpg);
+    background-repeat: no-repeat;
+}
+
+#second-chef-bg {
+
+    background: url(images/chef-2.jpg);
+    background-repeat: no-repeat;
+}
+
+#third-chef-bg {
+
+    background: url(images/chef-3.jpg);
+    background-repeat: no-repeat;
+
+}
+
+.small-text-block {
+
+    display: block;
+    margin: 0px;
+}
+
+.shef-text-bg {
+
+    background-color: rgba(255, 166, 0, 0.712);
+    padding: 20px;
+    color: white;
+}
