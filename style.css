@@ -125,4 +125,23 @@ p {
     color: black;
     line-height: normal;
 }
+
+footer {
+
+    text-align: center;
+    background-color: black;
+    padding: 10px 0 80px;
+}
+
+footer h3 {
+
+    color: gray;
+    font-size: 30px;
+}
+
+footer p {
+
+    color: rgb(170, 170, 170);
+
+}
     
