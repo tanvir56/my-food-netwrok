@@ -1,0 +1,128 @@
+body {
+    
+    margin: 0;
+    font-family: 'Uchen', serif;
+}
+
+section {
+
+    margin-bottom: 100px;
+    padding: 0px 80px;
+}
+
+h1 {
+
+    font-size: 55px;
+    line-height: 1.4;
+    color: #575757;
+    margin: 0px;
+}
+
+h2 {
+
+    font-size: 40px;
+    color: #575757;
+    
+}
+
+p {
+
+    font-size: 17px;
+    color: #616161;
+}
+
+.flexible {  
+
+    display: flex;
+
+}
+
+.half-width {
+
+    width: 46%;
+
+    margin: 0 1%;
+    
+}
+
+#content-mid {
+
+    
+    padding-top: 110px;
+    
+
+}
+
+.half-width img {
+
+    width: 100%;
+}
+
+.text-color-orange {
+
+    color: orange;
+}
+
+.link-btn {
+
+    text-decoration: none;
+    background-image: linear-gradient(90deg, orange, tomato);
+    color: white;
+    padding: 12px 36px;
+    font-weight: 700;
+    border-radius: 5px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.about-sec {
+
+    background-image: url(images/about-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 50px ;
+}
+
+#small-pic-size{
+
+    width: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+#btn-gap {
+
+    margin-top: 40px;
+    display: inline-block;
+}
+
+.text-center {
+
+    text-align: center;
+}
+
+.one-third-width {
+
+    width: 28%;
+    margin: 2%;
+    padding: 20px;    
+}
+
+.box-chaya {
+
+    box-shadow: 10px 10px 27px gray;
+    border-radius: 20px;
+}
+
+.one-third-width img {
+
+    width: 100%;
+    display: block;
+    margin: 0px auto;
+}
+
+.one-third-width h1 {
+  
+    color: black;
+    line-height: normal;
+}
+    
