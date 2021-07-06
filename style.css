@@ -130,7 +130,7 @@ footer {
 
     text-align: center;
     background-color: black;
-    padding: 10px 0 80px;
+    padding: 25px 0 80px;
 }
 
 footer h3 {
@@ -153,7 +153,12 @@ footer p {
     
 }
 
-.chef h2,h3 {
+.chef h2 {
+
+    margin: 0;
+}
+
+.chef h3 {
 
     margin: 0;
 }
@@ -176,6 +181,8 @@ footer p {
 
 }
 
+
+
 .small-text-block {
 
     display: block;
@@ -188,3 +195,47 @@ footer p {
     padding: 20px;
     color: white;
 }
+
+#discount-sec {
+
+    background-color: #77BA4F;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-bottom: 0px;
+    
+}
+
+.third-fouth-width {
+
+    width: 66%;
+    margin: 0 2%;
+    
+}
+
+.one-fouth-width {
+
+    width: 30%;
+    margin: 0;
+} 
+
+.text-color-white {
+
+    color: white;
+    margin: 0;
+}
+
+.link-btn-sec {
+
+    text-decoration: none;
+    background: white;
+    color: orange;
+    padding: 14px 70px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 20px auto;
+    display: inline-block;
+    margin: 30px;
+
+}
+
